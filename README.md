@@ -1,2 +1,2 @@
 # 100-days-coding-challenge
-100 days of my coding in Java from scratch*
+100 days of my coding in javascript from scratch*
